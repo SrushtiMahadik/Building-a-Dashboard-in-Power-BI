@@ -1,4 +1,5 @@
 📊 Amazon Prime Dashboard (Power BI)
+
 This project focuses on building an interactive Amazon Prime Dashboard using Power BI to analyze the content available on the platform. The dashboard provides insights into movies and TV shows based on different factors such as genre, release year, ratings, and country.
 
 📌 Project Overview
