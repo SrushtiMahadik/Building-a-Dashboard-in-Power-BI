@@ -9,7 +9,6 @@ The goal of this project is to transform raw Amazon Prime dataset into interacti
 🚀 Features
 
 • Interactive Power BI dashboard
-
 • Analysis of Movies vs TV Shows
 • Content distribution by genre and country
 • Visualization of ratings and release years
